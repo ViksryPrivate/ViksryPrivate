@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Profile Picture](https://github.com/ViksryPrivate/ViksryPrivate/raw/main/images/images/about-photo.jpg)
+![Profile Picture](https://github.com/ViksryPrivate/ViksryPrivate/images/images/about-photo.jpg)
 
 </div>
 
