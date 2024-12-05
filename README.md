@@ -1,4 +1,4 @@
-<h2 align="center"><b>DEVELOPER AND TECNOLOGY ENTHUSIAST</b></h2>
+<h2 align="center"><b>DEVELOPERS AND TECHNOLOGY ENTHUSIASTS</b></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-aqua?style=for-the-badge&logoColor=black" alt="Open Source Badge"/>
