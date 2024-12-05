@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=VIKSRY&color=aqua&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=aqua&style=flat)
 
 </div>
 
@@ -64,13 +64,6 @@ I am a passionate web developer skilled in creating beautiful and functional web
 [![Projects](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://github.com/Vixsry?tab=repositories)
 
 </div>
----
-
-[![THEME DESIGN BY STYLESHOUT] (https://img.shields.io/badge/THEME-DESIGN-aqua?style=for-the-badge&logoColor=black)](https://styleshout.com/)
-
-
-[![Projects](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://github.com/Vixsry?tab=repositories)
-
 
 ---
 ## 📈 GitHub Stats
