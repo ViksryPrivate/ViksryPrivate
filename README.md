@@ -61,7 +61,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-WEBSITE-aqua?style=for-the-badge&logoColor=black)](https://viksry.my.id/)
-[![Projects](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://github.com/Vixsry?tab=repositories)
+[![VIKS ANIMATION](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://github.com/Vixsry/viks-animation)
 
 </div>
 
