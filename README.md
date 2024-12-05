@@ -57,7 +57,8 @@ I am a passionate web developer skilled in creating beautiful and functional web
 </div>
 
 ---
-## 🌐 Portfolio & Projects
+<h2 align="center"><span style="color: aqua">Portfolio</span> Project</h2>
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-WEBSITE-aqua?style=for-the-badge&logoColor=black)](https://viksry.my.id/)
