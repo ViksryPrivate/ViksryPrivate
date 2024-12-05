@@ -65,8 +65,12 @@ I am a passionate web developer skilled in creating beautiful and functional web
 
 </div>
 ---
-## DESIGN THEME BY STYLESHOUT
-- StyleShout Website :
+
+[![THEME DESIGN BY STYLESHOUT] (https://img.shields.io/badge/THEME-DESIGN-aqua?style=for-the-badge&logoColor=black)](https://styleshout.com/)
+
+
+[![Projects](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://github.com/Vixsry?tab=repositories)
+
 
 ---
 ## 📈 GitHub Stats
