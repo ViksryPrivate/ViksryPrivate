@@ -173,11 +173,14 @@
 
                         <h1>Style Guide.</h1>
 
-                        <p class="lead">Lorem ipsum Officia elit ad tempor dolore est ex incididunt incididunt occaecat culpa deserunt 
-                        sunt labore in cillum ullamco magna in Excepteur consequat in reprehenderit proident mollit incididunt officia commodo.
-                        Duis ea officia sed dolor pariatur enim dolore dolore quis incididunt nulla exercitation commodo veniam et ea incididunt.
-                        </p>
-
+                        <p class="lead">1. Logo Design: The logo should be simple, easily recognized, and represent the brand identity. Variations: The logo can be used in both a full version (with text) and a symbol-only version. Color: Use a color palette that is consistent with the brand identity. Size: The logo should be visible clear in small (icon) and large (header) sizes.</p>
+                        <p class="lead">2. Color Palette: Primary Colors: #00FDA (bright green), #FFFFFF (white), #000000 (black).Secondary Colors: Neutral colors like gray (#808080) for secondary elements.Application: Use primary colors for important elements such as headers, call-to-action (CTA) buttons, and highlights. Use secondary colors for text and backgrounds.</p>
+                        <p class="lead">3. Typography: Primary Font: Sans-serif fonts like Roboto or Open Sans for a modern and clean look.Secondary Font: Serif fonts like Merriweather for accents and emphasis.Size: Main headings 36px, subheadings 24px, body text 16px, captions 12px.Consistency: Use the same typography throughout the site to ensure uniformity.</p>
+                        <p class="lead">4. Iconography: Design: Use icons with a minimalistic and clear style that complements the overall design.Size Guide: Standard icon sizes should be 24px for small and 48px for larger icons.Color: Icons should match the primary color scheme, using contrasting colors for visibility and accessibility.</p>
+                        <p class="lead">5. Images and Visuals: Quality: Images should be of high resolution (at least 72 dpi) for clear and professional display.File Formats: Use appropriate formats such as JPG for photographs, PNG for transparent images, and SVG for scalable graphics.Style: Ensure images align with the site’s theme, whether professional, modern, or relevant to the content.</p>
+                        <p class="lead">6. Layout and Structure: Grid System: A flexible grid system should be used to create responsive layouts.Spacing: Provide ample space between elements to ensure readability and a clean layout.Navigation: The navigation should be straightforward, intuitive, and easily accessible on all device sizes.</p>
+                        <p class="lead">7. Interactive Elements: Buttons: Buttons should have consistent shapes, prominent colors, and hover effects such as color changes to indicate interactivity.Forms: Form inputs should have clear labels and hints to guide users through form completion.Animations: Use subtle animations and transitions for interactive elements to enhance user engagement and experience.</p>
+                        <p class="lead">8. Voice and Tone: Language: Maintain a friendly, professional, and consistent tone that reflects the brand.Text Content: Ensure that all text on the site is informative and concise.</p>
                         <hr>
                     </div>
 
@@ -762,13 +765,13 @@
         
                     <div class="lg-4 tab-5 mob-12 column">
                         <p>10. Example Grid Layout Implementation : Here's a simple example of using grid-template-columns in CSS:</p>
-                      <pre><code class="language-css">
-                        .container {
-                         display: grid;
-                         grid-template-columns: 200px 1fr 1fr;
-                         gap: 10px;
-                         }
-                      </code></pre>
+<pre><code class="language-css">
+   .container {
+   display: grid;
+   grid-template-columns: 200px 1fr 1fr;
+   gap: 10px;
+   }
+</code></pre>
                       <p>This will create a layout with three columns: the first column fixed at 200px, and the next two columns sharing the remaining space equally.</p>
                     </div>
         
@@ -780,20 +783,20 @@
         
                     <div class="lg-3 tab-5 mob-12 column">
                         <p>11. Responsive Design with Grid Columns : To create a responsive design, media queries can be used to adjust the number or size of columns based on screen size. For example:</p>
-                      <pre><code class="language-css">
-                        .container {
-                         display: grid;
-                         grid-template-columns: 1fr 1fr;
-                         }
+<pre><code class="language-css">
+   .container {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   }
 
-                         @media (min-width: 768px) {
-                         .container {
-                         grid-template-columns: 1fr 1fr 1fr;
-                         }
-                         }
-                      </code></pre>
-                      <p>In this example, the grid will have two columns on smaller screens and three columns when the screen width is 768px or wider.</p>
-                    </div>
+   @media (min-width: 768px) {
+   .container {
+   grid-template-columns: 1fr 1fr 1fr;
+   }
+   }
+</code></pre>
+                    <p>In this example, the grid will have two columns on smaller screens and three columns when the screen width is 768px or wider.</p>
+                   </div>
         
                     <div class="lg-9 tab-7 mob-12 column">
                         <p>12. Comparison with Flexbox : Grid columns are often compared with Flexbox. The main difference is that Grid is designed for two-dimensional layouts (both rows and columns), while Flexbox is best for one-dimensional layouts (either a row or a column). If you need to arrange elements in rows and columns with high flexibility, Grid is the better choice. Flexbox is more suitable for arranging elements in a single line.</p>
