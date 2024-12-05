@@ -65,9 +65,8 @@ I am a passionate web developer skilled in creating beautiful and functional web
 
 </div>
 ---
-
-## DESIGN THEME BY STYLESHOOT
-![SytleShoot](https://styleshout.com/)
+## DESIGN THEME BY STYLESHOUT
+[StyleShout](https://styleshout.com/)
 
 ---
 ## 📈 GitHub Stats
