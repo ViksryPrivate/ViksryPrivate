@@ -57,7 +57,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 </div>
 
 ---
-<h2 align="center">PORTFOLIO< & PROJECT</h2>
+<h2 align="center">PORTFOLIO & PROJECT</h2>
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 </div>
 
 ---
-## 📈 GitHub Stats
+<h2 align="center"><b>GITHUB STATS</b></h2>
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vixsry&show_icons=true&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=ffffff)
