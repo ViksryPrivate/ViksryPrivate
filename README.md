@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Profile Views](https://www.instagram.com/viksry12/profilecard/?igsh=MXV6bzVzcnZhY3h2Yw==&color=aqua&style=flat)
+![Profile Picture](https://github.com/ViksryPrivate/ViksryPrivate/raw/main/images/images/about-photo.jpg)
 
 </div>
 
