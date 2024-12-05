@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=aqua&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=VIKSRY&color=aqua&style=flat)
 
 </div>
 
@@ -66,7 +66,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 </div>
 ---
 ## DESIGN THEME BY STYLESHOUT
-[StyleShout](https://styleshout.com/)
+- StyleShout Website :
 
 ---
 ## 📈 GitHub Stats
