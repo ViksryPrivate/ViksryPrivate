@@ -28,6 +28,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 ---
 <h2 align="center"><b>WORK POCUS</b></h2>
 <div align="center">
+
 [![Frontend](https://img.shields.io/badge/Frontend-Development-aqua?style=flat-square&logoColor=black)](#-)
 [![IoT Solutions](https://img.shields.io/badge/IoT-Solutions-black?style=flat-square&logoColor=aqua)](#-)
 [![Smart Contracts](https://img.shields.io/badge/Smart-Contracts-aqua?style=flat-square&logoColor=black)](#-)
@@ -36,14 +37,13 @@ I am a passionate web developer skilled in creating beautiful and functional web
 
 ---
 <h2 align="center"><b>AREA OF EXPERTISS</b></h2>
-<div align="left">
+
 - Web Application Development
 - IoT System Integration
 - Blockchain Solutions
 - Smart Contract Development
 - UI/UX Design
 - System Architecture
-</div>
 
 ---
 <h2 align="center"><b>CONTACT ME</b></h2>
