@@ -25,7 +25,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 </div>
 
 ---
-## 💼 Professional Focus
+<h2 align="center"><b>WORK POCUS</b></h2>
 <div align="center">
 
 [![Frontend](https://img.shields.io/badge/Frontend-Development-aqua?style=flat-square&logoColor=black)](#-)
@@ -35,7 +35,8 @@ I am a passionate web developer skilled in creating beautiful and functional web
 </div>
 
 ---
-## 🌟 Areas of Expertise
+<h2 align="center"><b>AREA OF EXPERTISS</b></h2>
+
 - Web Application Development
 - IoT System Integration
 - Blockchain Solutions
@@ -44,7 +45,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 - System Architecture
 
 ---
-## 📱 Connect With Me
+<h2 align="center"><b>CONTACT ME</b></h2>
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-aqua?style=for-the-badge&logo=gmail&logoColor=black)](mailto:viksry@proton.me)
