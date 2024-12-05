@@ -4,12 +4,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-aqua?style=for-the-badge&logoColor=black" alt="Open Source Badge"/>
 </p>
 
-<div align="center">
-  
-![Profile Picture](ViksryPrivate/images/images/about-photo.jpg)
-
-</div>
-
 ---
 ## 👨‍💻 About Me
 I am a passionate web developer skilled in creating beautiful and functional websites. Additionally, I have expertise in the fields of Internet of Things (IoT) and Blockchain, enabling me to integrate smart solutions into my projects. I enjoy the challenge of transforming complex problems into simple, engaging, and intuitive solutions.
