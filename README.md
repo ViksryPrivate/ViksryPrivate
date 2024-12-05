@@ -57,7 +57,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 </div>
 
 ---
-<h2 align="center"><span style="color: aqua">Portfolio</span> Project</h2>
+<h2 align="center"><span style="color: aqua">PORTFOLIO</span> & PROJECT</h2>
 
 <div align="center">
 
