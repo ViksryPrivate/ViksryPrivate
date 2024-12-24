@@ -30,12 +30,12 @@
         }
     })
     .add({
-        targets: '.s-header',
+        targets: '.header',
         translateY: [-100, 0],
         opacity: [0, 1]
     }, '-=200')
     .add({
-        targets: [ '.s-intro .text-pretitle', '.s-intro .text-huge-title'],
+        targets: [ '.intro .text-pretitle', '.intro .text-huge-title'],
         translateX: [100, 0],
         opacity: [0, 1],
         delay: anime.stagger(400)
@@ -64,17 +64,17 @@
 
    /* Preloader
     * -------------------------------------------------- */
-    const ssPreloader = function() {
+    const vPreloader = function() {
 
         const preloader = document.querySelector('#preloader');
         if (!preloader) return;
         
         window.addEventListener('load', function() {
-            document.querySelector('html').classList.remove('ss-preload');
-            document.querySelector('html').classList.add('ss-loaded');
+            document.querySelector('html').classList.remove('preload');
+            document.querySelector('html').classList.add('loaded');
 
-            document.querySelectorAll('.ss-animated').forEach(function(item){
-                item.classList.remove('ss-animated');
+            document.querySelectorAll('.v-animated').forEach(function(item){
+                item.classList.remove('v-animated');
             });
 
             tl.play();
@@ -85,12 +85,12 @@
         //     // window.scrollTo(0, 0);
         // });
 
-    }; // end ssPreloader
+    }; // end vPreloader
 
 
    /* Mobile Menu
     * ---------------------------------------------------- */ 
-    const ssMobileMenu = function() {
+    const vMobileMenu = function() {
 
         const toggleButton = document.querySelector('.mobile-menu-toggle');
         const mainNavWrap = document.querySelector('.main-nav-wrap');
@@ -124,12 +124,12 @@
             }
         });
 
-    }; // end ssMobileMenu
+    }; // end vMobileMenu
 
 
    /* Highlight active menu link on pagescroll
     * ------------------------------------------------------ */
-    const ssScrollSpy = function() {
+    const vScrollSpy = function() {
 
         const sections = document.querySelectorAll(".target-section");
 
@@ -162,12 +162,12 @@
             });
         }
 
-    }; // end ssScrollSpy
+    }; // end vScrollSpy
 
 
    /* Animate elements if in viewport
     * ------------------------------------------------------ */
-    const ssViewAnimate = function() {
+    const vViewAnimate = function() {
 
         const blocks = document.querySelectorAll("[data-animate-block]");
 
@@ -184,7 +184,7 @@
                 const blockHeight = current.offsetHeight;
                 const blockSpace = triggerTop + blockHeight;
                 const inView = scrollY > triggerTop && scrollY <= blockSpace;
-                const isAnimated = current.classList.contains("ss-animated");
+                const isAnimated = current.classList.contains("v-animated");
 
                 if (inView && (!isAnimated)) {
                     anime({
@@ -195,19 +195,19 @@
                         duration: 800,
                         easing: 'easeInOutCubic',
                         begin: function(anim) {
-                            current.classList.add("ss-animated");
+                            current.classList.add("v-animated");
                         }
                     });
                 }
             });
         }
 
-    }; // end ssViewAnimate
+    }; // end vViewAnimate
 
 
    /* Swiper
     * ------------------------------------------------------ */ 
-    const ssSwiper = function() {
+    const vSwiper = function() {
 
         const mySwiper = new Swiper('.swiper-container', {
 
@@ -235,12 +235,12 @@
             }
          });
 
-    }; // end ssSwiper
+    }; // end vSwiper
 
 
    /* Lightbox
     * ------------------------------------------------------ */
-    const ssLightbox = function() {
+    const vLightbox = function() {
 
         const folioLinks = document.querySelectorAll('.folio-list__item-link');
         const modals = [];
@@ -271,12 +271,12 @@
             });
         });
 
-    };  // end ssLightbox
+    };  // end vLightbox
 
 
    /* Alert boxes
     * ------------------------------------------------------ */
-    const ssAlertBoxes = function() {
+    const vAlertBoxes = function() {
 
         const boxes = document.querySelectorAll('.alert-box');
   
@@ -295,12 +295,12 @@
 
         })
 
-    }; // end ssAlertBoxes
+    }; // end vAlertBoxes
 
 
    /* Smoothscroll
     * ------------------------------------------------------ */
-    const ssMoveTo = function(){
+    const vMoveTo = function(){
 
         const easeFunctions = {
             easeInQuad: function (t, b, c, d) {
@@ -338,21 +338,21 @@
             moveTo.registerTrigger(trigger);
         });
 
-    }; // end ssMoveTo
+    }; // end vMoveTo
 
 
    /* Initialize
     * ------------------------------------------------------ */
-    (function ssInit() {
+    (function vInit() {
 
-        ssPreloader();
-        ssMobileMenu();
-        ssScrollSpy();
-        ssViewAnimate();
-        ssSwiper();
-        ssLightbox();
-        ssAlertBoxes();
-        ssMoveTo();
+        vPreloader();
+        vMobileMenu();
+        vScrollSpy();
+        vViewAnimate();
+        vSwiper();
+        vLightbox();
+        vAlertBoxes();
+        vMoveTo();
 
     })();
 
